@@ -1,2 +1,2 @@
 # myfurnace
-Simple furnace mod for Forge
+Simple furnace/crusher/ore doubling mod for Forge
